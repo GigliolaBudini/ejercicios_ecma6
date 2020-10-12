@@ -1,5 +1,5 @@
 #### [Ejercicios ES5 => ES6]
-
+Resueltos
 En estos ejercicios vamos a practicar ES6, tendremos 8 ejercicios, los cuales tienen sus propia carpeta y en ella encontraremos los archivos necesarios como su README.md, index.html, app.js y data.js.
 
 En cada README.md vienen las instrucciones para poder solucionarlos. 
@@ -20,4 +20,7 @@ forEach,
 .map,
 .filter,
 etc...
+
+
+
 
